@@ -26,7 +26,7 @@ $ make down
 - コンテナにアタッチする
 
 ```bash
-$ make app
+$ make shell
 ```
 
 
